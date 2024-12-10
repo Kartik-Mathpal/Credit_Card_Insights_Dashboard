@@ -1,6 +1,6 @@
 # Credit_Card_Insights_Dashboard - Power Bi + SQL
 
-Objecctive: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+Objective: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 Steps:
 1. The data was first analysed on excel to look out for any null or unwanted values and ensure data quality.
